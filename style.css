@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo&family=Roboto:wght@300;400;500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    border:0;
+}
+
+body{
+    font-family: exo;
+    color: grey;
+
+}
+#logo{
+    float: left;
+    font-size: 300%;
+}
+© 2021 GitHub, Inc.
